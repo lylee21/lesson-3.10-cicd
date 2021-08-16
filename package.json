@@ -1,0 +1,23 @@
+{
+  "name": "lesson-3.10-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.10-cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.10-cicd/issues"
+  },
+  "homepage": "https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.10-cicd#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
