@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.10-cicd.git"
+    "url": "git+https://github.com/lylee21/lesson-3.10-cicd"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.10-cicd/issues"
+    "url": "https://github.com/lylee21/lesson-3.10-cicd/issues"
   },
-  "homepage": "https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.10-cicd#readme",
+  "homepage": "https://github.com/lylee21/lesson-3.10-cicd#readme",
   "devDependencies": {
     "jest": "^27.0.6"
   }
